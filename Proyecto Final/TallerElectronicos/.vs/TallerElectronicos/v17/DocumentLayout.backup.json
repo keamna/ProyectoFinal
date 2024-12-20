@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\bussiness_detallereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\bussiness_detallereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\bussiness_reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\bussiness_reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\bussiness_tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\bussiness_tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capamodelo\\cls_reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capamodelo\\cls_reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|c:\\users\\keany\\programacion ii c# visual studio\\proyecto final enviado\\proyecto final\\tallerelectronicos\\tallerelectronicos\\capamodelo\\cls_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capamodelo\\cls_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\tecnico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\tecnico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\plantillamenu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\plantillamenu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\reparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\reparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\equipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\equipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capamodelo\\cls_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capamodelo\\cls_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\bussiness_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\bussiness_asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\bussiness_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\bussiness_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capamodelo\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capamodelo\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\detallereparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\detallereparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\detallereparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\detallereparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capamodelo\\cls_detallereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capamodelo\\cls_detallereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capalogica\\bussiness_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capalogica\\bussiness_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capamodelo\\cls_tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capamodelo\\cls_tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\equipo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\equipo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\reparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\reparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\capavista\\tecnico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\capavista\\tecnico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\tallerelectronicos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D8555672-DAB0-4D94-A4BA-6F12FBA76115}|TallerElectronicos\\TallerElectronicos.csproj|solutionrelative:tallerelectronicos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cls_Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Equipo.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaModelo\\Cls_Equipo.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Equipo.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaModelo\\Cls_Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:52:58.877Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Equipo.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Equipo.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Equipo.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Equipo.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Equipo.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T22:52:11.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bussiness_Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Equipo.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\Bussiness_Equipo.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Equipo.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\Bussiness_Equipo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:56:39.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bussiness_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Usuario.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\Bussiness_Usuario.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Usuario.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\Bussiness_Usuario.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:02:34.735Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Usuario.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Usuario.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Usuario.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Usuario.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:00:12.75Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Usuario.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Usuario.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Usuario.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Usuario.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T01:46:30.982Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bussiness_Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Asignacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\Bussiness_Asignacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Asignacion.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\Bussiness_Asignacion.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwIYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:46.989Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Asignacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Asignacion.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Asignacion.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Asignacion.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Asignacion.aspx.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAlwIIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:18:52.316Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bussiness_DetalleReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_DetalleReparacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\Bussiness_DetalleReparacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_DetalleReparacion.cs*",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\Bussiness_DetalleReparacion.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:40:01.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bussiness_Reparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Reparacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\Bussiness_Reparacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Reparacion.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\Bussiness_Reparacion.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:42:28.664Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cls_Reparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Reparacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaModelo\\Cls_Reparacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Reparacion.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaModelo\\Cls_Reparacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:38:59.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Inicio.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Inicio.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T01:35:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Login.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Login.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Login.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T18:46:03.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CSS\\Login.css",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CSS\\Login.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CSS\\Login.css",
+              "RelativeToolTip": "TallerElectronicos\\CSS\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T21:07:19.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tecnico.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Tecnico.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Tecnico.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Tecnico.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Tecnico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T20:38:53.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reparacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Reparacion.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Reparacion.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Reparacion.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Reparacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T21:37:53.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bussiness_Tecnico.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Tecnico.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\Bussiness_Tecnico.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\Bussiness_Tecnico.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\Bussiness_Tecnico.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAIoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:42:30.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Asignacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Asignacion.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Asignacion.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Asignacion.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Asignacion.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T23:38:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlantillaMenu.Master",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\PlantillaMenu.Master",
+              "RelativeDocumentMoniker": "TallerElectronicos\\PlantillaMenu.Master",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\PlantillaMenu.Master",
+              "RelativeToolTip": "TallerElectronicos\\PlantillaMenu.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T01:32:42.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CSS\\Menu.css",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CSS\\Menu.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CSS\\Menu.css",
+              "RelativeToolTip": "TallerElectronicos\\CSS\\Menu.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T01:33:37.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Login.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Login.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:53:17.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cls_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Usuario.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaModelo\\Cls_Usuario.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Usuario.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaModelo\\Cls_Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:01:09.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cls_Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Asignacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaModelo\\Cls_Asignacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Asignacion.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaModelo\\Cls_Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\DBConn.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaLogica\\DBConn.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaLogica\\DBConn.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaLogica\\DBConn.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:38:45.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DetalleReparacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\DetalleReparacion.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\DetalleReparacion.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\DetalleReparacion.aspx",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\DetalleReparacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T23:38:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DetalleReparacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\DetalleReparacion.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\DetalleReparacion.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\DetalleReparacion.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\DetalleReparacion.aspx.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAD4v7oAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:36:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cls_DetalleReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_DetalleReparacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaModelo\\Cls_DetalleReparacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_DetalleReparacion.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaModelo\\Cls_DetalleReparacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Equipo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Equipo.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Equipo.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Equipo.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Equipo.aspx.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAASwLMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:25:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Reparacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Reparacion.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Reparacion.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Reparacion.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Reparacion.aspx.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwLIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:01:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cls_Tecnico.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Tecnico.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaModelo\\Cls_Tecnico.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaModelo\\Cls_Tecnico.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaModelo\\Cls_Tecnico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:40:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Tecnico.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Tecnico.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos\\CapaVista\\Tecnico.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\CapaVista\\Tecnico.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos\\CapaVista\\Tecnico.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAHAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:07:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\Web.config",
+              "RelativeDocumentMoniker": "TallerElectronicos\\Web.config",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Proyecto Final ENVIADO\\Proyecto Final\\TallerElectronicos\\TallerElectronicos\\Web.config",
+              "RelativeToolTip": "TallerElectronicos\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T01:37:49.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

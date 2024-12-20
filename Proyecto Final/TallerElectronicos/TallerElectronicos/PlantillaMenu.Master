@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PlantillaMenu.master.cs" Inherits="TallerElectronicos.PlantillaMenu" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Taller Electronicos</title>
+        <link href="CSS/Menu.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+  <nav>
+  <a href="Login.aspx">Login</a>
+  <a href="Inicio.aspx">Inicio</a>
+  <a href="Usuario.aspx">Usuario</a>
+  <a href="Equipo.aspx">Equipo</a>
+  <a href="Reparacion.aspx">Reparacion</a>
+  <a href="DetalleReparacion.aspx">Detalle Reparacion</a>
+  <a href="Tecnico.aspx">Tecnico</a>
+  <a href="Asignacion.aspx">Asignacion</a>
+
+  <a href="#about">Salir</a>
+
+ </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
